@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alash3al/alash3al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mohamed Al Ashaal, a software engineer who like building apps in his free-time, programming is my hobby, I'm following this quote "What I cannot build, I cannot understand".
+> I'm Mohamed Al Ashaal, a software engineer who like building apps in his free-time, programming is my hobby, I'm following this quote "What I cannot build, I don't understand"
