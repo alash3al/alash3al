@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 
 > I'm Mohamed Al Ashaal, a software engineer who like building apps in his free-time, programming is my hobby, I'm following this quote "What I cannot build, I don't understand"
 
-[**BUY ME a Coffee?**](http://buymeacoffee.com/alash3al)
