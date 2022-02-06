@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> I'm Mohamed Al Ashaal, a software engineer who like building apps in his free-time, programming is my hobby, I'm following this quote "What I cannot build, I don't understand"
-
+Simply I'm a software engineer who follows this quote "what I cannot create i do not understand"
