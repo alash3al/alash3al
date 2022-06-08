@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Simply I'm a software engineer who follows this quote "what I cannot create i do not understand"
+Simply "what I cannot create i do not understand" 😄
