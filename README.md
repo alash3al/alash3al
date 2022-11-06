@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 > Simply "what I cannot create i do not understand" 😄, you can find me on other platforms from [here](https://alash3al.com/)
 
-![Mohamed's Stats](https://github-readme-stats.vercel.app/api?username=alash3al&count_private=true&show_icons=true&theme=dark)
+![Mohamed's Stats](https://github-readme-stats.vercel.app/api?username=alash3al&count_private=true&show_icons=true&theme=radical)
