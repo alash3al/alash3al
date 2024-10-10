@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Simply "what I cannot create I do not understand" 😄, you can find me on other platforms from [here](https://alash3al.com/)
+> I follow this quote "What I cannot create I do not understand" 😄, you can find me on other platforms from [here](https://alash3al.com/), also you can book an appointment from [here](https://calendar.app.google/THN9c2QiJbsnTz8ZA)
 
